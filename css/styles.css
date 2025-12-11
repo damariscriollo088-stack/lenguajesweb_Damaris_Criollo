@@ -33,3 +33,14 @@ justify-content: space-between;
     height: 160;
     display: block;
 }
+.Menu{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+.lista-menu{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+
+}
